@@ -4,6 +4,6 @@ Git: Version control software -> it keeps tracks of the entire history of things
 
 Github: Web service -> a website where you can make projects and do Git things on it. Github kinds of run the Git software behind the scenes, so it's like social coding, social networking for projects managed through Git.
 
-Reposition: 
+Repo: Respository -> a Github respository is another word for project. It can have multiple files associated with it, it's a repository of files. 
 
-Commit: 
+Commit: Save ~ 
