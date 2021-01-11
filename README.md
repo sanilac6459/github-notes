@@ -2,8 +2,8 @@
 
 Git: "version control" "collaboration" version control software
 
-Github:
+Github: web service
 
-Repo:
+Reposition: "repo"
 
-Commit:
+Commit: "save"
