@@ -1,6 +1,6 @@
 # github-notes
 
-Git:
+Git: "version control" "collaboration" version control software
 
 Github:
 
