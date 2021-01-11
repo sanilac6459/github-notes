@@ -1,12 +1,8 @@
 # github-notes
 
-Git: 
+Git: it's a system that you can use to keep track of the history of a project and allows many people to collaborate on the project together.
 
-version control -> keep tracks of the entire history of the things you work on a computer 
-
-collboration -> Git is a special tool which has a lot of advanced and sophisticated features for collboration, it has no problem with two people working on the same document at the same time.
-
-Github: web service
+Github: 
 
 Reposition: "repo"
 
