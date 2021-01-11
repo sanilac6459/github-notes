@@ -6,4 +6,4 @@ Github: Web service -> a website where you can make projects and do Git things o
 
 Repo: Respository -> a Github respository is another word for project. It can have multiple files associated with it, it's a repository of files. 
 
-Commit: Save ~ 
+Commit: Save -> a commit is 'I'm going to change the file and make a commit'. Each commit, each save, can have a note associated with it, which sometimes can be useful when collaborating or to keep track of things yourself. Making changes to the respository files by making commits, and those commits allows you to browse the history and each one of those commits has a unique identifier for it call Commit Hash.
